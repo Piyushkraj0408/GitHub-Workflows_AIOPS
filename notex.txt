@@ -1,0 +1,12 @@
+
+Step-1
+
+mkdir mlops-first-pipeline
+cd mlops
+
+python -m venv kiet-env
+source
+
+
+
+uvicorn main:app --reload
